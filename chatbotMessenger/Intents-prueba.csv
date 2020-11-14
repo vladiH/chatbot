@@ -1,0 +1,274 @@
+﻿Situacion,Mensaje usuario,Ref-entidades,Mensaje del bot,Mensaje instantaneo,Style,Contexto in,Contexto out,Descripción
+2a,,,,,,,2a,Saludo
+,hola buenos dias,saludo_Buenos días,$saludo,¿Desea conocer nuestra Promo especial? | ¿Le gustaría conocer nuestra Promo insignia?,0,,,
+,hola buen día,saludo_Buen día,"Hola, bienvenido",,,,,
+,"hola, buenos dias",saludo_Buenos días,Hola mucho gusto,,,,,
+,buenas tardes,saludo_Buenas tardes,Bienvenido,,,,,
+,buenas noches,saludo_Buenas noches,,,,,,
+,pizza,,,,,,,
+,quiero pizza,,,,,,,
+,deseo una pizza,,,,,,,
+,tiene pizza,,,,,,,
+,que pizza tiene,,,,,,,
+,que pizza recomienda,,,,,,,
+,estas ahí,,,,,,,
+,cual es tu catálogo,,,,,,,
+,una consulta,,,,,,,
+,una pregunta,,,,,,,
+,hola,,,,,,,
+,quiero realizar pedido,,,,,,,
+4a,,,,,,2a,43a,
+,"gracias, pero no",,"Permitame ofrecerle nuestro catálogo de productos. 
+Por favor escriba el número o la pizza de su agrado:
+1 Pepperoni
+2 Salami
+3 Hawaiana
+4 Margherita
+5 Jamón
+6 Pollo
+7 Frutas
+8 Suprema
+9 Americana
+10 Meat Lovers
+11 Vegetariana
+12 Alemana
+13 Continental
+14 Suprema
+o puede visitar nuestro portal web en la imagen de abajo, donde encontrará una gran variedad de pizzas",¡Qué delicias! |  | https://20241099-410825886250931747.preview.editmysite.com/uploads/2/0/2/4/20241099/catalogo_orig.jpg | Ver Catálogo | https://botpizza.weebly.com/catalogo.html |  |  |  | ,1,,,
+,aun no,,"Le comprendo. Por favor escriba la pizza de su agrado:
+1 Pepperoni
+2 Salami
+3 Hawaiana
+4 Margherita
+5 Jamón
+6 Pollo
+7 Frutas
+8 Suprema
+9 Americana
+10 Meat Lovers
+11 Vegetariana
+12 Alemana
+13 Continental
+14 Suprema
+o puede visitar nuestro portal web en la imagen de abajo, donde encontrará una gran variedad de pizzas",,,,,
+,todavia no,,,,,,,
+,no gracias no lo quiero,,,,,,,
+,por ahora no,,,,,,,
+,no gracias,,,,,,,
+,no lo quiero,,,,,,,
+,"no, por ahora",,,,,,,
+,que otra opción tiene?,,,,,,,
+,que pizza tiene?,,,,,,,
+,que me recomienda?,,,,,,,
+,no,,,,,,,
+6a,,,,,,43a,6a,
+,Pepperoni,producto_pepperoni,Usted ha elegido la pizza $producto. Por favor escriba el número o tamaño que desea,"Tenemos: 
+1 pequeña 
+2 mediana 
+3 normal 
+4 familiar 
+5 grande",0,,,
+,Salami,producto_salami,Hiciste una buena elección al elegir la pizza $producto. Por favor elija el número o tamaño en especifico,,,,,
+,Hawaiana,producto_hawaiana,"Gracias por escoger su pizza $producto, solo faltó preguntar, ¿Que tamaño desea?",,,,,
+,Margherita,producto_margherita,,,,,,
+,Jamon,producto_jamon,,,,,,
+,Pollo,producto_pollo,,,,,,
+,Frutas,producto_frutas,,,,,,
+,Suprema,producto_suprema,,,,,,
+,Americana,producto_americana,,,,,,
+,Meat Lovers,producto_meat lovers,,,,,,
+,Vegetariana,producto_vegetariana,,,,,,
+,Alemana,producto_alemana,,,,,,
+,Continental,producto_continental,,,,,,
+,Suprema,producto_suprema,,,,,,
+8a,,,,,,6a,44a,
+,familiar,tamano_familiar,"El tamaño de su pizza es $tamano.
+¿Desea AService?",¿Qué es AService? | | | Ir | https://botpizza.weebly.com/aservice.html | | | |  ,1,,,
+,grande,tamano_grande,"Usted eligió el tamaño $tamano.
+¿Desea AService?",,,,,
+,normal,tamano_normal,,,,,,
+,mediana,tamano_mediana,,,,,,
+,pequeña,tamano_pequeña,,,,,,
+,una normal,tamano_normal,,,,,,
+,la mediana,tamano_mediana,,,,,,
+,la grande,tamano_grande,,,,,,
+,una mediana,tamano_mediana,,,,,,
+3a,,,,,,2a,3a,
+,si deseo conocer,,"Excelente, nuestro producto especial trata de una Pizza Hawaiana que contiene una base de queso fundido y tomate que se aliñan con jamón y piña, también se le incluirá tocino, gambas, cerezas, pimiento rojo, champiñón, cebollas y jalapeños. Le incluimos la gaseosa de su preferencia.
+
+Al precio incomparable de S/.30, no pierda esta gran oportunidad  :)",¿Desea reservarlo? | Por supuesto | No,2,,,
+,si quiero conocer,,,,,,,
+,si,,,,,,,
+,si deseo,,,,,,,
+,si quiero,,,,,,,
+9a,,,,,,3a,9a,
+,si quiero reservar,,"Tenemos:
+1 pequeña
+2 mediana
+Por favor escriba el número o tamaño que desea","Nuestro especial | haz click !!! | https://20241099-410825886250931747.preview.editmysite.com/uploads/2/0/2/4/20241099/especial_orig.png |  Ver especial | https://botpizza.weebly.com/especial.html | | | | 
+
+",1,,,
+,si quiero,,,,,,,
+,si deseo,,,,,,,
+,si deseo reservar,,,,,,,
+,si,,,,,,,
+,Por supuesto,,,,,,,
+10a,,,,,,9a,44a,
+,pequeña,tamanoEsp_pequeña,"El tamaño de su pizza especial es $tamanoEsp.
+¿Desea AService?",¿Qué es AService?| | | Ir | https://botpizza.weebly.com/aservice.html | | | | ,1,,,
+,mediana,tamanoEsp_mediana,"Usted eligió el tamaño de su pizza especial $tamanoEsp.
+¿Desea AService?",,,,,
+7a,,,,,,3a,43a,
+,no quiero reservar,,"Permitame ofrecerle nuestro catálogo de productos. 
+Por favor escriba el número o la pizza de su agrado:
+1 Pepperoni
+2 Salami
+3 Hawaiana
+4 Margherita
+5 Jamón
+6 Pollo
+7 Frutas
+8 Suprema
+9 Americana
+10 Meat Lovers
+11 Vegetariana
+12 Alemana
+13 Continental
+14 Suprema
+o puede visitar nuestro portal web en la imagen de abajo, donde encontrará una gran variedad de pizzas",¡Qué delicias! |  | https://20241099-410825886250931747.preview.editmysite.com/uploads/2/0/2/4/20241099/catalogo_orig.jpg | Ver Catálogo | https://botpizza.weebly.com/catalogo.html |  |  |  | ,1,,,
+,no quiero,,"Le entiendo. Por favor escriba el número o la pizza de su agrado:
+1 Pepperoni
+2 Salami
+3 Hawaia
+4 Margherita
+5 Jamón
+6 Pollo
+7 Frutas
+8 Suprema
+9 Americana
+10 Meat Lovers
+11 Vegetariana
+12 Alemana
+13 Continental
+14 Suprema
+También puede visitar nuestro portal web en la imagen de abajo, donde encontrará una gran variedad de pizzas",,,,,
+,no deseo,,,,,,,
+,no deseo reservar,,,,,,,
+,no,,,,,,,
+11a,,,,,,44a,11a,
+,si deseo ASERVICE,,¿Por favor cuál será su forma de pago?,"1 Al contado 
+2 Con tarjeta",0,,,
+,si deseo,,,,,,,
+,si,,,,,,,
+,si quiero,,,,,,,
+19a,,,,,,44a,45a,
+,no deseo ASERVIC,,Por favor indique su número telefónico y correo para contactarlo,Gracias,0,,,
+,no deseo,,"Para contactarlo, por favor escriba su número de teléfono y correo",,,,,
+,no,,,,,,,
+,no quiero,,,,,,,
+40a,,,,,,45a,47a,
+,931223323 y@gmail.com,"sys.phone-number_931223323, sys.email_y@gmail.com",Los datos proporcionados son $sys.phone-number y $sys.email,"En breve se comunicarán con usted, hasta pronto",0,,,
+,931223323 y@hotmail.com,"sys.phone-number_931223323, sys.email_y@hotmail.com",,,,,,
+,931223323 r@yahoo.com,"sys.phone-number_931223323, sys.email_r@yahoo.com",,,,,,
+,y@yahoo.com 931223323,"sys.phone-number_931223323, sys.email_r@yahoo.com",,,,,,
+,y@hotmail.com 931223323,"sys.phone-number_931223323, sys.email_y@hotmail.com",,,,,,
+,y@gmail.com 931223323,"sys.phone-number_931223323, sys.email_y@gmail.com",,,,,,
+,mi numero es  931223323 y correo y@gmail.com ,"sys.phone-number_931223323, sys.email_y@gmail.com",,,,,,
+37a,,,,,,47a,,
+,adios,despedida_adios,Los datos de compra se enviaron al correo registrado,Gracias,0,,,
+,hasta pronto,despedida_hasta pronto,,,,,,
+,bye,despedida_bye,,,,,,
+,nos vemos,despedida_nos vemos,,,,,,
+,gracias,despedida_gracias,,,,,,
+,Gracias a Ud.,despedida_gracias a Ud.,,,,,,
+13a,,,,,,11a,13a,
+,al contado,formaPago_contado,Usted cancelará mediante forma de pago al $formaPago,"¿Por favor, cuenta con la cantidad exacta?",,,,
+,contado,formaPago_contado,,,,,,
+,1,formaPago_1,,,,,,
+14a,,,,,,13a,14a,
+,no cuento,,¿Con cuantos soles cancelará?,Por favor ingrese solamente la cantidad,0,,,
+,no,,,,,,,
+,no tengo,,,,,,,
+41a,,,,,,13a,17a,
+,si cuento,,Por favor indique su número telefónico y correo para contactarlo,,,,,
+,si,,Por favor escriba su número de teléfono y correo para contactarlo,,,,,
+,por supuesto,,,,,,,
+16a,,,,,,14a,17a,
+,10,sys.number_10,Usted cancelará con (S/.) $sys.number,Por favor indique su número telefónico y correo para contactarlo | Por favor indique su número de teléfono y correo para comunicarnos,0,,,
+,100,sys.number_100,,,,,,
+,1000,sys.number_1000,,,,,,
+22a,,,,,,17a,22a,
+,931223323 y@gmail.com,"sys.phone-number_931223323, sys.email_y@gmail.com",Los datos proporcionados son $sys.phone-number y $sys.email,"Por favor elija el núm. o tipo de comprobante deseado
+1 Boleta
+2 Factura",0,,,
+,931223323 y@hotmail.com,"sys.phone-number_931223323, sys.email_y@hotmail.com",,,,,,
+,931223323 r@yahoo.com,"sys.phone-number_931223323, sys.email_r@yahoo.com",,,,,,
+,y@yahoo.com 931223323,"sys.phone-number_931223323, sys.email_y@yahoo.com",,,,,,
+,y@hotmail.com 931223323,"sys.phone-number_931223323, sys.email_y@hotmail.com",,,,,,
+,y@gmail.com 931223323,"sys.phone-number_931223323, sys.email_y@gmail.com",,,,,,
+,mi numero es  931223323 y correo y@gmail.com ,"sys.phone-number_931223323, sys.email_y@gmail.com",,,,,,
+,932029292 ssss@Outlook.es,"sys.phone-number_932029292, sys.email_ssss@Outlook.es",,,,,,
+24a,,,,,,22a,24a,
+,boleta,comprobante_boleta,Ingrese el nombre y apellido que será registrado en su $comprobante,"Por favor escriba únicamente nombres, apellido paterno y apellido materno",0,,,
+,con boleta,comprobante_boleta,,,,,,
+,1,comprobante_1,,,,,,
+42a,,,,,,24a,46a,
+,pilar lucia diaz ruiz,"sys.given-name_pilar lucia, sys.last-name_diaz ruiz",La venta se registra a: $sys.given-name $sys.last-name,Por favor ingrese la dirección de entrega,0,,,
+,juan jose alfaro serrano,"sys.given-name_juan jose, sys.last-name_alfaro serrano",,,,,,
+,jose antonio perez gimenez,"sys.given-name_jose antonio, sys.last-name_perez gimenez",,,,,,
+,maria garcia martinez,"sys.given-name_maria, sys.last-name_garcia martinez",,,,,,
+30a,,,,,,46a,30a,
+,12 DE OCTUBRE No. 51,sys.address_12 DE OCTUBRE No. 51,La dirección de entrega es: $sys.address,"Por favor, escriba una referencia de ayuda que permita encontrar con facilidad su dirección",,,,
+,AV. F. ANGELES Y SAN LUIS P S/N,sys.address_AV. F. ANGELES Y SAN LUIS P S/N,,,,,,
+,AV. GRAL. ANAYA No. 2 BIS,sys.address_AV. GRAL. ANAYA No. 2 BIS,,,,,,
+,AV. 16 DE SEPTIEMBRE 11,sys.address_AV. 16 DE SEPTIEMBRE 11,,,,,,
+,CUITLAHUAC No. 25,sys.address_CUITLAHUAC No. 25,,,,,,
+,ovalo de pachacutec,sys.address_ovalo de pachacutec,,,,,,
+,calle paseo de los heroes ,sys.address_calle paseo de los heroes ,,,,,,
+,av jorge benavides,sys.address_av jorge benavides,,,,,,
+33a,,,,,,30a,47a,
+,ubicacion,sys.any_ubicacion,"La referencia ingresada es $sys.any. 
+La entrega del producto sera aproximadamente en 29 minutos o la pizza es GRATIS",Hasta pronto | Bye | Gracias por visitarnos | Vuelva pronto,0,,,
+,es ubicacion,sys.any_ubicacion,,,,,,
+20a,,,,,,11a,45a,
+,con tarjeta,formaPago_tarjeta,Usted cancelará con $formaPago,Por favor indique su número telefónico y correo para contactarlo,0,,,
+,tarjeta,formaPago_tarjeta,,,,,,
+,2,formaPago_2,,,,,,
+25a,,,,,,22a,25a,
+,factura,comprobante_factura,Por favor indique su Razón Social y núm. de RUC. para completar su $comprobante,,,,,
+,con factura,comprobante_factura,,,,,,
+,2,comprobante_2,,,,,,
+27a,,,,,,25a,46a,
+,MULTISERVICIOS NOAYA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA - MULTISERVICIOS NOAYA E.I.R.L. 20542806886,sys.any_MULTISERVICIOS NOAYA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA - MULTISERVICIOS NOAYA E.I.R.L. 20542806886,La venta se esta registrando con la sig. información: $sys.any ,Por favor ingrese la dirección de entrega,0,,,
+,J LAM E.I.R.L. 20451071913,sys.any_J LAM E.I.R.L. 20451071913,,,,,,
+,SNACKS AMERICA LATINA S.R.L. 20297182456,sys.any_SNACKS AMERICA LATINA S.R.L. 20297182456,,,,,,
+,EURO MOTORS S.A 20168544252,sys.any_EURO MOTORS S.A 20168544252,,,,,,
+,EMPRESA ADMINISTRADORA CHUNGAR S.A.C. 20100025591,sys.any_EMPRESA ADMINISTRADORA CHUNGAR S.A.C. 20100025591,,,,,,
+1b,,,,,,,,
+,"eres un
+  robot",,,"PizzaBOT | Soy tu asistente virtual, que te guiará en la reserva |  https://botpizza.weebly.com/uploads/2/0/2/4/20241099/wbot1_orig.png | Nosotros | https://botpizza.weebly.com/nosotros.html",1,,,
+,identificate,,,,,,,
+,"eres
+  humano",,,,,,,
+,"quien
+  eres",,,,,,,
+,"eres un
+  robot?",,,,,,,
+,identificate?,,,,,,,
+,"eres
+  humano?",,,,,,,
+,"quien
+  eres?",,,,,,,
+,quien es,,,,,,,
+2b,,,,,,,,
+,adios,,"Gracias por visitarnos, vuelva pronto",,,,,
+,chau,,Fue un gusto servirle. Hasta pronto,,,,,
+,nos vemos,,,,,,,
+,hasta luego,,,,,,,
+,mucho gusto,,,,,,,
+,hasta pronto,,,,,,,
+,good bye,,,,,,,
+,see you,,,,,,,
+,bye,,,,,,,
+,byee,,,,,,,
+,byeee,,,,,,,
